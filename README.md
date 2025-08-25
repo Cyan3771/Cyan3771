@@ -3,6 +3,8 @@
 啥都没...
 
 <details>
+<summary>别点我</summary>
+<details>
 <summary>真没了</summary>
 <details>
 <summary>别看了</summary>
@@ -30,6 +32,7 @@ emm...<br/>
 </div>
 <h2>继续</h2>
 额，在展开按钮内写东西要用HTML，太麻烦了，继续请点击→<a href="README-follow-up.md">README-follow-up.md</a>
+</details>
 </details>
 </details>
 </details>
