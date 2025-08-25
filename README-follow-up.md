@@ -107,7 +107,7 @@
 <details>
 <summary>
 <img src="https://img.shields.io/badge/好东西-00ffff?style=flat-square"/>
-<summary>
+</summary>
 <iframe 
     src="https://player.bilibili.com/player.html?bvid=BV1GJ411x7h7&autoplay=1&loop=1&muted=0&danmaku=1&high_quality=1&fullscreen=1" 
     scrolling="no" 
