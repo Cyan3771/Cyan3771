@@ -104,9 +104,20 @@
 <summary>其实还有</summary>
 <details>
 <summary>就不告诉你有多少层</summary>
-<a href="https://www.bilibili.com/video/BV1GJ411x7h7/" target="_blank">
+<details>
+<summary>
 <img src="https://img.shields.io/badge/好东西-00ffff?style=flat-square"/>
-</a>
+<summary>
+<iframe 
+    src="https://player.bilibili.com/player.html?bvid=BV1GJ411x7h7&autoplay=1&loop=1&muted=0&danmaku=1&high_quality=1&fullscreen=1" 
+    scrolling="no" 
+    border="0" 
+    frameborder="no" 
+    framespacing="0" 
+    allowfullscreen="true" 
+    style="width: 100%; height: 500px;"
+></iframe>
+</details>
 </details>
 </details>
 </details>
