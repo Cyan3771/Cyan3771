@@ -104,7 +104,7 @@
 <summary>其实还有</summary>
 <details>
 <summary>就不告诉你有多少层</summary>
-<a href="https://player.bilibili.com/player.html?bvid=BV1GJ411x7h7&autoplay=1&loop=1&muted=0&danmaku=1&high_quality=1&fullscreen=1" target="_blank">
+<a href="https://player.bilibili.com/player.html?bvid=BV1GJ411x7h7&autoplay=1&loop=1&muted=0&danmaku=1&high_quality=1&fullscreen=1&?isOutside=false&aid=80433022&cid=137649199&p=1" target="_blank">
 <img src="https://img.shields.io/badge/好东西-00ffff?style=flat-square"/>
 </a>
 </details>
@@ -129,6 +129,7 @@
 </details>
 </details>
 </details>
+
 
 
 
