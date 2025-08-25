@@ -126,14 +126,4 @@
 </details>
 </details>
 <!-- B 站视频 iframe 标准代码（GitHub README 不支持直接加载） -->
-<iframe 
-  src="https://player.bilibili.com/player.html?bvid=BV1GJ411x7h7&autoplay=1&loop=1&muted=0&danmaku=1&high_quality=1&fullscreen=1"
-  width="100%"  <!-- 宽度，可设固定值（如800px）或自适应（100%） -->
-  height="450"  <!-- 高度，16:9 比例建议设为宽度的 56.25%（如800px宽对应450px高） -->
-  frameborder="0"  <!-- 取消边框 -->
-  allowfullscreen  <!-- 允许全屏 -->
-  allow="autoplay; encrypted-media"  <!-- 允许自动播放和媒体加密（部分浏览器需配合静音） -->
-  title="B站视频：BV1GJ411x7h7"  <!-- 无障碍标题 -->
-/>
-
 
