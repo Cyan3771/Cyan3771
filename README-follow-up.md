@@ -17,7 +17,7 @@
 <div align="left">
     <div>
         <img src="https://img.shields.io/badge/Minecraft-7CFC00?style=for-the-badge"/>
-        <img src="https://img.shields.io/badge/Among Us-F0F80F?style=for-the-badge" alt="duskhefty#6204" />
+        <img src="https://img.shields.io/badge/Among Us-F0F80F?style=for-the-badge"/>
         <p>这两个YYDS</p>
     </div>
     <div>
@@ -42,5 +42,45 @@
 ## ✉️联系我
 <div align="left">
     <a href="https://qm.qq.com/q/OvUK8pLQ2s" target="_blank">
-        <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=qq&logoColor=FFFFFF" alt="3840165879" />
+        <img src="https://img.shields.io/badge/QQ-12B7F5?style=for-the-badge&logo=qq&logoColor=FFFFFF" />
     </a>
+    <a href="https://space.bilibili.com/1056073256" target="_blank">
+        <img src="https://img.shields.io/badge/Bilibili-FB7299?style=for-the-badge&logo=bilibili&logoColor=12B7F5" alt="Bilibili" />
+    </a>
+    <a href="https://steamcommunity.com/id/Cyan3771/" target="_blank">
+        <img src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=FFFFFF" alt="Steam" />
+    </a>
+    <a href="mailto:yangjiahao36@outlook.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
+    </a>
+    <a href="https://www.xbox.com/play/user/yangjiahao36" target="_blank">
+        <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge" alt="Xbox" />
+    </a>
+</div>
+
+---
+就到这里吧，除此之外我也不知道写啥了。
+<details>
+<summary>真没了</summary>
+<details>
+<summary>别看了</summary>
+<details>
+<summary>你又来这套</summary>
+<details>
+<summary>求你别点了</summary>
+<details>
+<summary>。</summary>
+<details>
+<summary>。。</summary>
+<details>
+<summary>。。。</summary>
+<a href="https://www.bilibili.com/video/BV1GJ411x7h7/" target="_blank">
+<img src="https://img.shields.io/badge/好东西-00ffff?style=flat-square"/>
+</a>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
+</details>
