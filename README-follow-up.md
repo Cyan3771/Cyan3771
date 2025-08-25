@@ -125,5 +125,12 @@
 </details>
 </details>
 </details>
-<!-- B 站视频 iframe 标准代码（GitHub README 不支持直接加载） -->
+</details>
+</details>
+</details>
+</details>
 
+<iframe 
+  src="https://player.bilibili.com/player.html?bvid=BV1GJ411x7h7&autoplay=1&loop=1&muted=0&danmaku=1&high_quality=1&fullscreen=1"
+  width="100%"
+></iframe>
