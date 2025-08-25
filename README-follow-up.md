@@ -69,12 +69,38 @@
 <summary>你又来这套</summary>
 <details>
 <summary>求你别点了</summary>
+<!-- 第一个二选一穿插开始 -->
+<details>
+<summary>要不选这个？</summary>
+<details>
+<summary>选A</summary>
+<summary>就是单纯的选项A～</summary>
+</details>
+<details>
+<summary>选B</summary>
+<summary>就是单纯的选项B～</summary>
+</details>
+</details>
+<!-- 第一个二选一穿插结束 -->
 <details>
 <summary>。</summary>
 <details>
 <summary>。。</summary>
 <details>
 <summary>。。。</summary>
+<!-- 第二个二选一穿插开始 -->
+<details>
+<summary>再选一次呗？</summary>
+<details>
+<summary>选1</summary>
+<summary>平平无奇选项1～</summary>
+</details>
+<details>
+<summary>选2</summary>
+<summary>平平无奇选项2～</summary>
+</details>
+</details>
+<!-- 第二个二选一穿插结束 -->
 <details>
 <summary>呃呃呃</summary>
 <details>
@@ -94,6 +120,10 @@
 <a href="https://www.bilibili.com/video/BV1GJ411x7h7/" target="_blank">
 <img src="https://img.shields.io/badge/好东西-00ffff?style=flat-square"/>
 </a>
+</details>
+</details>
+</details>
+</details>
 </details>
 </details>
 </details>
